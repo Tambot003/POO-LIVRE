@@ -3,7 +3,7 @@
 
 class Livre
  
-{
+{ 
     private string $_titre;
     private int $_anneeDeParution;
     private int $_nbPages;
